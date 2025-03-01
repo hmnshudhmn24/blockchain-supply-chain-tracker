@@ -23,6 +23,3 @@ A decentralized supply chain tracking system using Ethereum smart contracts. It 
    ```bash
    truffle migrate --network development
    ```
-
-## License
-MIT License
